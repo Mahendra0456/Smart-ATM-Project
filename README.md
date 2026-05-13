@@ -13,4 +13,4 @@ A simple ATM simulation application built using Streamlit.
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run ATM.py
